@@ -15,5 +15,3 @@ A Java OOP-based console application that simulates a smart car showroom. It pro
 - IntelliJ IDEA
 - Git & GitHub
 
-## Author
-Sudhir Kumar
